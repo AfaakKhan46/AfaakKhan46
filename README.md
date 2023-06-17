@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Afaq Khan</h1>
-<h3 align="center">A passionate Python/Django developer from Pakistan</h3>
+<h3 align="center">A passionate Flutter/Firebase developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Flutter/ Rest API's/ Python**
 
-- 🌱 I’m currently learning **Django Framework**
+- 🌱 I’m currently learning **Firebase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AfaakKhan46](https://github.com/AfaakKhan46)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **Afaak46@yahoo.com**
 
